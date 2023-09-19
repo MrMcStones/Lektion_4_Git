@@ -5,4 +5,6 @@ public class Main {
     }
 
     String rasmus;
+
+    int age;
 }
