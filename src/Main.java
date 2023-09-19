@@ -7,4 +7,6 @@ public class Main {
     String rasmus;
 
     int age;
+    
+    boolean fun = false;
 }
